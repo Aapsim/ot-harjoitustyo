@@ -1,0 +1,113 @@
+commit 3a75e9de275cdd93b5d2686c0dcb4f80fec17fff
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:54:11 2023 +0200
+
+    poistettu file1, uudelleennimetty file2
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6102e157c227e90e8afe7ef306cce8ceb4e64728
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:43:49 2023 +0200
+
+    luotu hakemisto tiedostoja, luotu file1, file2, file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8f6014d687ef4c6be3dd8961bed74546571df1af
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:36:38 2023 +0200
+
+    muutettu ekaa ja kolmatta
+
+ eka.txt    | 13 +------------
+ kolmas.txt |  2 +-
+ 2 files changed, 2 insertions(+), 13 deletions(-)
+
+commit c98597b7dd20ef3e757f53a923dc99d2c343429d
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:33:37 2023 +0200
+
+    tiedosto.txt uudelleennimetty
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ded8babc4f542a7a52f3f948f99660b45b9800a0
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:31:46 2023 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit c212410988d6fa8683fcd41c3a7350ec1d84f8d0
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:27:44 2023 +0200
+
+    tiedosto.txt tekstiä poistettu ja lisätty
+
+ tiedosto.txt | 26 +++++++++-----------------
+ 1 file changed, 9 insertions(+), 17 deletions(-)
+
+commit e52af8614f3ee526647447f19b6fabbc15e08a2c
+Author: DESKTOP-AQ747PA\aapos <aapo.simola@gmail.com>
+Date:   Tue Mar 21 02:24:38 2023 +0200
+
+    tiedosto.txt lisätty tekstiä
+
+ tiedosto.txt | 45 ++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 44 insertions(+), 1 deletion(-)
+
+commit 39336ff17dbc46ac30ceb955807ecb0c723b4426
+Author: Aapo Simola <aapo.simola@helsinki.fi>
+Date:   Tue Mar 21 02:17:06 2023 +0200
+
+    toista ja kolmasta muutettu
+
+ kolmas.txt | 1 +
+ toinen.txt | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit d2e0e368a9b0060f9b3d35f60c95dbed39f7f045
+Author: Aapo Simola <aapo.simola@helsinki.fi>
+Date:   Tue Mar 21 02:14:58 2023 +0200
+
+    stuff lisätty
+
+ stuff/keissi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1a9cb71b899033e1853c1f7b13b7db9302e7ae54
+Author: Aapo Simola <aapo.simola@helsinki.fi>
+Date:   Mon Mar 20 07:15:33 2023 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ba3712b4c7e7c49d1d1fea70f39ff075b26dfa07
+Author: Aapo <aapo.simola@helsinki.fi>
+Date:   Mon Mar 20 07:10:15 2023 +0200
+
+    git commit -m "muutos ja lisäys"
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 11f3dc6bd1729f581872360e1439ca7ec5a08303
+Author: Aapo <aapo.simola@helsinki.fi>
+Date:   Mon Mar 20 07:02:39 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
